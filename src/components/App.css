@@ -1,0 +1,11 @@
+.App__title h1 {
+  text-align: center;
+  font-size: 26px;
+  line-height: 40px;
+  margin-bottom: 30px;
+}
+ 
+.container {
+  width: 988px;
+  padding: 58px 0;
+}
